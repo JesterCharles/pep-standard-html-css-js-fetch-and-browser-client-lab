@@ -31,7 +31,7 @@ This lab practises these topics: Fetching data; Handling HTTP errors and Problem
 
 ## Setup
 
-1. Open a terminal in this folder: the repository root you cloned, the folder that holds this README.
+1. Open a terminal in this folder, `coding-lab/`, the folder that holds this README.
 2. Go into `starter/` and install the pinned test runner once:
 
    ```sh
